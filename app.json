@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "testezinho",
+    "slug": "testezinho",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6417ec13-04fb-45c2-aa75-042ba04afaa7"
+      }
+    }
+  }
+}
